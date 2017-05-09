@@ -11,3 +11,5 @@ streamsets的filetail插件有几个小问题
 
 
 通过修改这些文件，替换掉streamsets-libs/streamsets-datacollector-basic-lib/lib/streamsets-datacollector-commonlib-2.4.0.0.jar中对应jar文件即可解决这个bug
+
+具体修改了哪些地方，可以将上面5个文件，逐个跟官网源码对比
