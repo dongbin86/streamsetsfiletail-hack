@@ -1,0 +1,2 @@
+# streamsetsfiletail-hack
+streamsets的filetail插件有几个小问题
